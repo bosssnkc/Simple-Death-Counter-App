@@ -1,5 +1,4 @@
 Simple Death Counter App
-English
 
 Simple Death Counter App is a simple desktop GUI application built with Python’s Tkinter library.
 It helps you keep track of the number of “deaths” (or any counter you want to use) while playing games or doing activities.
