@@ -36,16 +36,16 @@ You can increment, decrement, reset, and set a custom value, and optionally save
 
 - If you don’t select a file, the app will still run but will not save data.
 
-**For Developer and who want to customize**
+# **For Developer and who want to customize**
 
-**If you want to edit and create yourself Simple Death Counter App follow requirements section**
-# Requirements
+# **If you want to edit and create yourself Simple Death Counter App follow requirements section**
+## Requirements
 
 Make sure you have Python 3 installed, along with the following libraries:
 
 `pip install keyboard`
 
-# How to Run Code
+## How to Run Code
 
 Clone or download the project.
 
@@ -55,7 +55,7 @@ Run the Python script:
 
 Use the GUI or hotkeys to update your counter.
 
-# If you want to build your own .exe:
+## If you want to build your own .exe:
 
 `pip install pyinstaller`
 `pyinstaller --onefile --noconsole death_counter.py`
